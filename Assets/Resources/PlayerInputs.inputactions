@@ -18,8 +18,8 @@
             "bindings": [
                 {
                     "name": "3D Vector",
-                    "id": "e588099c-9495-40a3-9377-2f9c2770e502",
-                    "path": "3DVector(mode=2)",
+                    "id": "76b84e47-0673-443f-928f-dfb4a80666ce",
+                    "path": "3DVector",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -29,7 +29,7 @@
                 },
                 {
                     "name": "left",
-                    "id": "1e200f6f-3bab-4be2-a50b-b8d482c4fcc7",
+                    "id": "72f5bacd-f7ac-4501-a1d3-6439e5818a1c",
                     "path": "<Keyboard>/leftArrow",
                     "interactions": "",
                     "processors": "",
@@ -40,7 +40,7 @@
                 },
                 {
                     "name": "right",
-                    "id": "3383035b-40fb-47e9-a1da-3e578c8ec163",
+                    "id": "cc3719f2-3cea-41e1-a2ec-0df17d266535",
                     "path": "<Keyboard>/rightArrow",
                     "interactions": "",
                     "processors": "",
@@ -51,8 +51,19 @@
                 },
                 {
                     "name": "forward",
-                    "id": "637ed72f-222a-4cd6-8c17-c33afaa7995d",
+                    "id": "a73fd04c-f1c8-4e69-891b-d9f0eeeb5fd6",
                     "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "backward",
+                    "id": "5588cfce-ddb5-40ba-a440-dfa8ff19a069",
+                    "path": "<Keyboard>/downArrow",
                     "interactions": "",
                     "processors": "",
                     "groups": "",

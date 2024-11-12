@@ -1,33 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c27ed82b-7074-437d-bbfd-a3c9debf586e" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CrossRoad/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CrossRoad/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/chick.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/chick.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/car/Materials/car_purple.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/car/Materials/car_purple.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/chick/Materials/chick.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/chick/Materials/chick.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/log/Materials/log.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/log/Materials/log.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/railroad/Materials/railroad.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/railroad/Materials/railroad.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/train/Materials/traincar.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/train/Materials/traincar.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/trees/Materials/treelarge.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/trees/Materials/treelarge.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/trees/Materials/treemedium_pCube62Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/trees/Materials/treemedium_pCube62Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/trees/Materials/treesmall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/trees/Materials/treesmall.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/truck/Materials/truck.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/truck/Materials/truck.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BillingMode.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/BillingMode.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerInputs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerInputs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerInputs.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerInputs.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HooBBoo"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HooBBoo&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HooBBoo/CrossRoad.git",
-    "accountId": "e784eb36-96d2-4581-8a14-a5eee3708027"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HooBBoo/CrossRoad.git&quot;,
+    &quot;accountId&quot;: &quot;e784eb36-96d2-4581-8a14-a5eee3708027&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Item/Coin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Item/ItemObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Item/Mover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Item/ObjectRange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/AnimatorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spawn/LevelGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spawn/SpawnController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spawn/Spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/InGameUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/LeanTween/Examples/Scripts/GeneralUISpace.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/LeanTween/Framework/LTDescr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/Scripts/Camera/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/Scripts/Camera/CameraShake.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/Scripts/Item/ItemObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/Scripts/Item/Mover.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/Scripts/Item/ObjectRange.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/Scripts/Manager/Manager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/Scripts/Player/AnimatorController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/Scripts/Player/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/Scripts/Spawn/LevelGenerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/Scripts/Spawn/SpawnController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/Scripts/Spawn/Spawner.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New_CrossRoadFriend_Lecture/Assets/Scripts/UI/InGameUI.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2okPARAr8Opw8i6fhOXzk6J4csT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,7 +81,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Unity 에디터에 연결.Unity 에디터에 연결.executor": "Debug",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -58,10 +108,10 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <method v="2" />
     </configuration>
-    <configuration name="Unity 에디터에 연결" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Unity 에디터에 연결" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="21736">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="21736" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -88,8 +138,19 @@
       <option name="presentableId" value="Default" />
       <updated>1731410457682</updated>
       <workItem from="1731410459477" duration="11000" />
+      <workItem from="1731426780656" duration="94000" />
+      <workItem from="1731426882243" duration="2277000" />
+      <workItem from="1731429430801" duration="2100000" />
+      <workItem from="1731431714031" duration="2063000" />
+      <workItem from="1731433878425" duration="3000" />
+      <workItem from="1731433886931" duration="2000" />
+      <workItem from="1731433890578" duration="46000" />
+      <workItem from="1731434019065" duration="3371000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
