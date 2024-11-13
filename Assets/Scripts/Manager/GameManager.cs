@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System;
 using System.Collections.Generic;
 
@@ -83,7 +83,7 @@ public class GameManager : MonoBehaviour
     {
         currentDistance += 1;
         distance?.Invoke(currentDistance);
-        //levelGenerator.RandomGenerator();
+        levelGenerator.RandomGenerator();
     }
 
     public GameObject SpawnFromPool(int id)
@@ -116,8 +116,8 @@ public class GameManager : MonoBehaviour
 
     public void GameOver()
     {
-        // camera.GetComponent<CameraShake>().Shake();
-        // camera.GetComponent<CameraFollow>().enabled = false;
+        camera.GetComponent<CameraShake>().Shake();
+        camera.GetComponent<CameraFollow>().enabled = false;
         gameOver?.Invoke();
     }
 }

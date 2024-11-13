@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class AnimatorController : MonoBehaviour
@@ -6,15 +6,15 @@ public class AnimatorController : MonoBehaviour
     public PlayerController playerController = null;
     private Animator animator = null;
 
-    private string trJump = "Jump";
-    private string trDead = "Dead";
+    private string trJump = "jump";
+    private string trDead = "dead";
 
     private int Jump;
     private int Dead;
 
     void Start()
     {
-        animator = GetComponent<Animator>();
+        animator = this.GetComponent<Animator>();
         Jump = Animator.StringToHash(trJump);
         Dead = Animator.StringToHash(trDead);
     }
@@ -37,11 +37,11 @@ public class AnimatorController : MonoBehaviour
         {
             if (input.magnitude == 0f)
             {
-                animator.ResetTrigger(Jump);
+                animator.SetBool(Jump, false);
             }
             else
             {
-                animator.SetTrigger(Jump);
+                animator.SetBool(Jump, true);
             }
         }
     }

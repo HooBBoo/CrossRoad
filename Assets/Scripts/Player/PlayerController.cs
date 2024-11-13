@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.InputSystem;
 
 public interface IHit
@@ -8,7 +8,7 @@ public interface IHit
 
 public class PlayerController : MonoBehaviour, IHit
 {
-    public float moveDistance = 1; //아이템 추가시 변경 위해
+    public float moveDistance = 1;
     private Vector3 curPos;
     private Vector3 moveValue;
     public float moveTime = 0.4f;
@@ -65,7 +65,8 @@ public class PlayerController : MonoBehaviour, IHit
     {
         GameManager.instance.GameOver();
         isDead = true;
-        ParticleSystem.EmissionModule em = particle.emission;
-        em.enabled = true;
+        //ParticleSystem.EmissionModule em = particle.emission;
+        //em.enabled = true;
+        particle.Play();
     }
 }
